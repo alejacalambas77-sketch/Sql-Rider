@@ -5,7 +5,7 @@
 
   <!-- GIFS ANIMADOS DE BIENVENIDA -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1bm9uNWR3OWRxZDlwbmZ1NGZ2ZjRkYjJ6MnRsdTB2YmRxZ2JpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvly/giphy.gif" width="380" height="180" style="border-radius:15px; border: 2px solid #00f0ff; box-shadow: 0 0 15px #00f0ff;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1bm9uNWR3OWRxZDlwbmZ1NGZ2ZjRkYjJ6MnRsdTB2YmRxZ2JpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvly/giphy.gif" width="380" height="180" style="border-radius:15px; border: 2px solid #d000ff; box-shadow: 0 0 15px #e100ff;" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pOTBiaDZ2Ymt1NDB5cXBicXU2OHdld3A4dzFwbXJ4NG1udXF0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PPmmgcM/giphy.gif" width="380" height="180" style="border-radius:15px; border: 2px solid #ff007f; box-shadow: 0 0 15px #ff007f;" />
   </p>
 
@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="100" alt="Dev Avatar" />
       </td>
       <td>
-        <h3>⚡ Angel Esteban Rivera Camayo</h3>
+        <h3>⚡Emilith Alejandra Calambas Avirama</h3>
         <p><b>Full Stack Developer | Software Engineering Student</b></p>
         <p>📍 Popayán / Cauca, Colombia 🇨🇴</p>
         <p>
@@ -54,7 +54,7 @@
 ## 📸 Muestra de la Interfaz Futurista (UI/UX)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JpZml3ZmY5NHowNndjMDJldGgxbnhsbzR2cmRscDdtZTBmNGp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="80%" style="border-radius: 12px; border: 1px solid #00f0ff;" alt="Cyberpunk UI Preview" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JpZml3ZmY5NHowNndjMDJldGgxbnhsbzR2cmRscDdtZTBmNGp5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="80%" style="border-radius: 12px; border: 1px solid #ff00bf;" alt="Cyberpunk UI Preview" />
 </div>
 
 ---
